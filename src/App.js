@@ -7,7 +7,6 @@ function App() {
   return (
     <main className="App">
       <section className='pt-5'>
-        <h1 className='text-center text-'>Markdown</h1>
         <div className='container'>
           <div className='row'>
             <div className='col-lg-6'>
